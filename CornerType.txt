@@ -1,0 +1,5 @@
+---SP---
+hard	0
+smooth	1
+curve	2
+circle	3

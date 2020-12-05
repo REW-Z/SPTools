@@ -1,0 +1,52 @@
+<Engines>
+<Part id="0" partType="JetEngine1" position="-0.3371329,3.446774,-3.593281" rotation="-1.628447E-12,0,0" name="JT-85" activationStage="0" commandPodId="1" materials="0,0,2,3,4" shroudStyle="JetEngineShroud-None" nozzleStyle="Basic" inletConeStyle="Spike">
+        <Drag drag="0.4687811,0.4694992,0.1249904,0.05263951,0.4820705,0.3201717" area="0.6159285,0.6178063,0.1873614,0.1505582,0.6379199,0.4237916" />
+        <Config />
+        <Fuselage bottomScale="0.25,0.25" offset="0,0.5743403,0" topScale="0.25,0.25" />
+        <JetEngine bypassRatio="0" compressionRatio="7.5" mass="1.368409" price="482504" shroudCurvature="1" size="0.5" />
+        <Inlet />
+        <InputController inputId="Thrust Reverse" />
+      </Part>
+
+
+<Part id="1" partType="JetEngine1" position="1.279437,2.983355,-2.959198" rotation="90,-5.008956E-06,0" name="JT-85" activationStage="0" commandPodId="1" materials="0,0,2,3,4" shroudStyle="JetEngineShroud-None" nozzleStyle="Basic" inletConeStyle="Spike">
+        <Drag drag="0.0003387467,0.01545347,0.02151328,0.4420612,0.3461366,0.02156576" area="0.0009389174,0.04976263,0.02899634,0.4717466,0.3713756,0.03011159" />
+        <Config />
+        <Fuselage bottomScale="0.25,0.25" offset="0,1.148091,0" topScale="0.25,0.25" />
+        <JetEngine bypassRatio="0" compressionRatio="30" hasAfterburner="true" mass="2.097504" price="761419" shroudCurvature="1" size="0.5" />
+        <Inlet />
+        <InputController inputId="Thrust Reverse" />
+      </Part>
+  
+<Part id="2" partType="JetEngine1" position="4.717794,0.9463158,-4.79695" rotation="90,-5.008956E-06,0" name="JT-85" activationStage="0" commandPodId="1" materials="0,0,2,3,4" shroudTexture="Default" fanStyle="Curved" nozzleStyle="Basic" inletConeStyle="Spike">
+    <Drag drag="0.002643697,0.005169569,0.008125976,0.4489452,0.0804332,0.00829217" area="0.006572422,0.01408376,0.01115244,0.4684009,0.08475861,0.01115244" />
+    <Config />
+    <Fuselage bottomScale="0.3491054,0.3491054" offset="0,0.8516912,0" topScale="0.5,0.5" />
+    <JetEngine bypassRatio="1.80000007" compressionRatio="10" mass="3.97522783" price="1020211" shroudCurvature="0.75" shroudLength="1.07999992" />
+    <Inlet />
+    <InputController inputId="Thrust Reverse" />
+  </Part>
+
+<Part id="3" partType="JetEngine1" position="3.717794,1.071317,-3.743936" rotation="90,-5.008956E-06,0" name="JT-85" activationStage="0" commandPodId="1" materials="0,0,2,3,4" shroudTexture="Default" inletConeStyle="Spike">
+        <Drag drag="0.5477202,0.3746291,1.236946,0,1.226348,0.6299074" area="0.7623957,0.7623957,1.629355,0,1.589207,0.846474" />
+        <Config partScale="1,0.5,1" />
+        <Fuselage bottomScale="0.5,0.5" offset="0,1.211181,0" topScale="0.5,0.5" />
+        <JetEngine bypassRatio="0" compressionRatio="10" mass="11.3890581" price="4056385" shroudCurvature="1" />
+        <Inlet />
+        <InputController inputId="Thrust Reverse" />
+      </Part>
+
+
+
+
+<Part id="4" partType="JetEngine1" position="6.25912,-0.3080396,1.056124" rotation="90,-5.008956E-06,0" name="JT-85" activationStage="0" commandPodId="1" materials="0,0,2,3,4" shroudStyle="JetEngineShroud-2" shroudTexture="Default" fanStyle="SCurve" nozzleStyle="Civilian" inletConeStyle="Spike">
+        <Drag drag="0.00201407,0.007507658,0.02268538,0.5705292,0.7968319,0.02206871" area="0.004694587,0.01971726,0.02899634,0.5877331,0.8319756,0.03234208" />
+        <Config partScale="1,1.25,1" />
+        <Fuselage bottomScale="0.5012461,0.5012461" offset="0,0.9743623,0" topScale="0.75,0.75" />
+        <JetEngine bypassRatio="4" compressionRatio="10" mass="9.472083" price="1827905" shroudCurvature="0.599999964" shroudLength="1.03" size="1.5" />
+        <Inlet />
+        <InputController inputId="Thrust Reverse" />
+      </Part>
+</Engines>
+
+

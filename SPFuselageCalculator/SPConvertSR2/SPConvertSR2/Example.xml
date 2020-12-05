@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Craft name="Example" parent="" initialBoundsMin="-1,-1,-1" initialBoundsMax="1,1,1" price="0" suppressCraftConfigWarnings="false" xmlVersion="11" localCenterOfMass="0,0,0">
+  <Assembly>
+    <Parts>
+      <Part id="50" partType="CommandPod1" position="5.960464E-07,-4.768372E-07,2.69486" rotation="90,1.295787E-05,0" rootPart="true" commandPodId="50" materials="0,0,0,0,0">
+        <Drag drag="1.081415,0.02116543,1.227475,1.227475,1.124745,1.125364" area="2.023688,0.03678274,1.66386,1.66386,1.534496,1.534496" />
+        <Config />
+        <CommandPod activationGroupNames=",,,,,,,Landing Gear,Solar Panels,RCS" activationGroupStates="false,false,false,false,false,false,false,true,false,true" craftConfigType="Plane" pidPitch="10,0,0" pidRoll="0.6,0,0" pilotSeatRotation="270,-1.295787E-05,0">
+          <Controls />
+        </CommandPod>
+        <Gyroscope />
+        <FuelTank subPriority="32" />
+        <CrewCompartment />
+      </Part>
+    </Parts>
+    <Connections>
+    </Connections>
+    <Collisions />
+    <Bodies>
+    </Bodies>
+  </Assembly>
+  <DesignerSettings themeName="Custom">
+    <Theme name="Custom" id="">
+    </Theme>
+  </DesignerSettings>
+  <Themes>
+    <Theme name="Custom" id="">
+    </Theme>
+  </Themes>
+  <Symmetry />
+</Craft>

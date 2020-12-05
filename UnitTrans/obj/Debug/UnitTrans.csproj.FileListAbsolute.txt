@@ -1,0 +1,10 @@
+C:\Users\dell-pc\Desktop\SP\UnitTrans\bin\Debug\UnitTrans.exe.config
+C:\Users\dell-pc\Desktop\SP\UnitTrans\bin\Debug\UnitTrans.exe
+C:\Users\dell-pc\Desktop\SP\UnitTrans\bin\Debug\UnitTrans.pdb
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.Form1.resources
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.Properties.Resources.resources
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.csproj.GenerateResource.cache
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.exe
+C:\Users\dell-pc\Desktop\SP\UnitTrans\obj\Debug\UnitTrans.pdb
