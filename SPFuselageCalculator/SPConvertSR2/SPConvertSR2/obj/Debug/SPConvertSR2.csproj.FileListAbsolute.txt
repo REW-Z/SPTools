@@ -19,3 +19,17 @@ C:\Users\dell-pc\Desktop\SP\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\D
 C:\Users\dell-pc\Desktop\SP\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.pdb
 C:\Users\dell-pc\Desktop\SP\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.FormHelp.resources
 C:\Users\dell-pc\Desktop\SP\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\bin\Debug\SPConvertSR2.exe.config
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\bin\Debug\SPConvertSR2.exe
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\bin\Debug\SPConvertSR2.pdb
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\bin\Debug\SPLibrary.dll
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\bin\Debug\SPLibrary.pdb
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.Form1.resources
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.FormHelp.resources
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.Properties.Resources.resources
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.csproj.GenerateResource.cache
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.csproj.CopyComplete
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.exe
+C:\Users\dell-pc\Desktop\SPTools\SPFuselageCalculator\SPConvertSR2\SPConvertSR2\obj\Debug\SPConvertSR2.pdb

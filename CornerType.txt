@@ -1,5 +1,19 @@
----SP---
+------SP------
 hard	0
 smooth	1
 curve	2
 circle	3
+
+前四个：front  
+后四个：rear
+从后向前观察：从右上顺时针
+
+
+------SR2------
+
+0.0: hard
+1.0: circle
+
+前四个：top
+后四个：bottom
+从下往上观察：从左下逆时针。

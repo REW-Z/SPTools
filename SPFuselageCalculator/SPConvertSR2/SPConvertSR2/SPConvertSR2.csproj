@@ -98,5 +98,11 @@
     <Content Include="Example.xml" />
     <Content Include="Images\Application.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\SPLibrary\SPLibrary\SPLibrary.csproj">
+      <Project>{988062e9-ee4e-4829-bf40-a28ff77deeb8}</Project>
+      <Name>SPLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

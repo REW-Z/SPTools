@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="Example" url="" theme="Custom" size="5.67676,2.733356,5" boundsMin="-5.17676,0,-0.75" xmlVersion="6" legacyJointIdentification="false">
+  <Assembly>
+    <Parts>
+      <Part id="1" partType="Cockpit-1" position="2.842171E-14,2.483356,0" rotation="0,0,0" drag="0.1278033,0.1278033,0.005840001,0.005840001,0.2579999,0.258" materials="7,0" partCollisionResponse="Default">
+        <Cockpit.State primaryCockpit="True" lookBackTranslation="0,0" />
+      </Part>
+    </Parts>
+    <Connections>
+    </Connections>
+    <Bodies>
+      <Body partIds="1,2,4,3,6,7" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="5" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+  </Theme>
+</Aircraft>

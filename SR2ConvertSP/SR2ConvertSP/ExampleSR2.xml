@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Craft name="Example" parent="" initialBoundsMin="-1,-1.000002,-6.789536" initialBoundsMax="1,0.9999986,9.22415" price="529658" suppressCraftConfigWarnings="true" xmlVersion="12" localCenterOfMass="0,-6.157865,-9.536743E-07">
+  <Assembly>
+    <Parts>
+      <Part id="39" partType="CommandPod1" position="0,-1.907349E-06,-6.157866" rotation="90,180,0" rootPart="true" commandPodId="39" materials="0,0,0,0,0">
+        <Drag drag="0,1.02784,1.214433,1.214433,1.108501,1.108379" area="0,1.977051,1.62811,1.62811,1.518525,1.518525" />
+        <Config supportsTransparency="true" />
+        <CommandPod activationGroupNames=",,,,,,,Landing Gear,Solar Panels,RCS" activationGroupStates="false,false,false,false,false,false,false,true,false,true" craftConfigType="Plane" pidPitch="10,0,0" pidRoll="0.6,0,0" pilotSeatRotation="270,-1.295787E-05,0" useDefaultPilotSeatRotation="false">
+          <Controls />
+        </CommandPod>
+        <Gyroscope />
+        <FuelTank />
+        <CrewCompartment />
+      </Part>
+      <Part id="40" partType="Fuselage1" position="0,-1.907349E-06,0.4241476" rotation="90,0,0" commandPodId="39" materials="0,0,2,3,4">
+        <Drag drag="0,0,7.800047,7.800048,7.799986,7.799986" area="0,0,10.01933,10.01933,10.01933,10.01933" />
+        <Config supportsTransparency="true" />
+        <Fuselage bottomScale="1,1" offset="0,2.5,0" topScale="1,1" />
+        <FuelTank capacity="8639.3798828125" fuel="8639.3798828125" subPriority="30" />
+      </Part>
+      <Part id="41" partType="Inlet1" position="0,-1.907349E-06,5.074149" rotation="90,5.008955E-06,0" commandPodId="39" materials="0,0,0,0,0">
+        <Drag drag="0.01831055,0,6.724609,6.724597,6.724594,6.724581" area="0.01831055,0,8.641648,8.641648,8.641648,8.641648" />
+        <Config supportsTransparency="true" />
+        <Fuselage bottomScale="1,1" offset="-4.168642E-14,2.150002,2.384186E-07" topScale="1,1" />
+        <Inlet />
+      </Part>
+      <Part id="42" partType="NoseCone1" position="0,-2.384186E-06,8.22415" rotation="90,0,0" commandPodId="39" materials="0,0,2,3,4">
+        <Drag drag="1.429595,0,1.992801,1.992464,2.00029,1.995441" area="3.087403,0,2.802214,2.802214,2.802214,2.802214" />
+        <Config supportsTransparency="true" />
+        <Fuselage bottomScale="1,1" offset="0,1,0" topScale="0,0" />
+        <FuelTank capacity="1151.9173583984375" subPriority="108" />
+      </Part>
+      <Part id="43" partType="Strut1" position="0,-1.907349E-06,-3.80085" rotation="90,0,0" commandPodId="39" materials="2,2,2,2,4" texture="Fuselage11">
+        <Drag drag="0,1.128662,5.362674,5.362673,5.362735,5.362735" area="0,1.128662,6.888231,6.888231,6.888231,6.888231" />
+        <Config supportsTransparency="true" />
+        <Fuselage bottomScale="1,1" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0,1.725015,-2.384186E-07" topScale="1,1" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="41" partB="40" attachPointsA="0" attachPointsB="4" />
+      <Connection partA="42" partB="41" attachPointsA="2" attachPointsB="1" />
+      <Connection partA="43" partB="40" attachPointsA="2" attachPointsB="1" />
+      <Connection partA="39" partB="43" attachPointsA="0" attachPointsB="1" />
+    </Connections>
+    <Collisions />
+    <Bodies>
+      <Body id="1" partIds="39,43,40,41,42" mass="117.807846" position="0,-1.907349E-06,-2.145767E-06" rotation="0,0,0" centerOfMass="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <DesignerSettings themeName="Custom">
+    <Theme name="Custom" id="3b193e7b-353a-4b08-b513-298e26cf531e">
+      <Material color="686868" m="0.5" s="0.7" />
+      <Material color="B9B9B9" m="0.5" s="0.7" />
+      <Material color="171717" m="0.65" s="0.08" />
+      <Material color="000000" m="0.5" s="0.7" />
+      <Material color="000000" m="0.1" s="0.08" />
+      <Material color="5C0000" m="0.65" s="0.08" />
+      <Material color="FFFFFF" m="0.5" s="0.7" />
+      <Material color="FFE7A2" m="0.5" s="0.83" />
+      <Material color="FF0F0F" m="0.5" s="0.83" />
+      <Material color="00D000" m="0.5" s="0.83" />
+      <Material color="452200" m="0.65" s="0.08" />
+      <Material color="B9B9B9" m="0.5" s="0.83" />
+      <Material color="446677" m="0.65" s="0.08" />
+      <Material color="FF1143" m="0.65" s="0.08" />
+      <Material color="FF6A12" m="0.65" s="0.08" />
+      <Material color="000000" m="0.65" s="0.08" />
+      <Material color="FFFFFF" m="0.65" s="0.08" />
+      <Material color="1E1E1E" m="0.65" s="0.08" />
+      <Material color="D0D0D0" m="0.65" s="0.08" />
+      <Material color="8B8B8B" m="1" s="1" />
+    </Theme>
+  </DesignerSettings>
+  <Themes>
+    <Theme name="Custom" id="15cdca1c-8251-4885-aa05-4a75c101134a">
+      <Material color="686868" m="0.5" s="0.7" />
+      <Material color="B9B9B9" m="0.5" s="0.7" />
+      <Material color="171717" m="0.65" s="0.08" />
+      <Material color="000000" m="0.5" s="0.7" />
+      <Material color="000000" m="0.1" s="0.08" />
+      <Material color="5C0000" m="0.65" s="0.08" />
+      <Material color="FFFFFF" m="0.5" s="0.7" />
+      <Material color="FFE7A2" m="0.5" s="0.83" />
+      <Material color="FF0F0F" m="0.5" s="0.83" />
+      <Material color="00D000" m="0.5" s="0.83" />
+      <Material color="452200" m="0.65" s="0.08" />
+      <Material color="B9B9B9" m="0.5" s="0.83" />
+      <Material color="446677" m="0.65" s="0.08" />
+      <Material color="FF1143" m="0.65" s="0.08" />
+      <Material color="FF6A12" m="0.65" s="0.08" />
+      <Material color="000000" m="0.65" s="0.08" />
+      <Material color="FFFFFF" m="0.65" s="0.08" />
+      <Material color="1E1E1E" m="0.65" s="0.08" />
+      <Material color="D0D0D0" m="0.65" s="0.08" />
+      <Material color="8B8B8B" m="1" s="1" />
+      <Material color="FFFFFF" m="0.3" s="0.6" />
+      <Material color="FFFFFF" m="0.3" s="0.6" />
+      <Material color="FFFFFF" m="0.3" s="0.6" />
+      <Material color="FFFFFF" m="0.3" s="0.6" />
+      <Material color="FFFFFF" m="0.3" s="0.6" />
+    </Theme>
+  </Themes>
+  <Symmetry />
+</Craft>

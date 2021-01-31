@@ -1,0 +1,13 @@
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\bin\Debug\SR2ConvertSP.exe.config
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\bin\Debug\SR2ConvertSP.exe
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\bin\Debug\SR2ConvertSP.pdb
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\bin\Debug\SPLibrary.dll
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\bin\Debug\SPLibrary.pdb
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.Form1.resources
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.Properties.Resources.resources
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.csproj.GenerateResource.cache
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.csproj.CopyComplete
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.exe
+C:\Users\dell-pc\Desktop\SPTools\SR2ConvertSP\SR2ConvertSP\obj\Debug\SR2ConvertSP.pdb

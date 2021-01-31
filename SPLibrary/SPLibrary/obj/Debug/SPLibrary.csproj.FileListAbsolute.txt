@@ -1,0 +1,6 @@
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\bin\Debug\SPLibrary.dll
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\bin\Debug\SPLibrary.pdb
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\obj\Debug\SPLibrary.csprojAssemblyReference.cache
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\obj\Debug\SPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\obj\Debug\SPLibrary.dll
+C:\Users\dell-pc\Desktop\SPTools\SPLibrary\SPLibrary\obj\Debug\SPLibrary.pdb
